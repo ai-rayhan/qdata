@@ -1,0 +1,46 @@
+{
+    "subjects": [
+      {
+        "subjectName": "General",
+        "units": [
+          {
+            "unitName": "Sports",
+            "url": "https://quizmama.blogspot.com/2023/09/blog-post.html",
+            "topic": [
+                  "নবযুগ",
+                  "লাঙল"
+              ]
+          },
+          {
+            "unitName": "Bangladesh and Global",
+            "url": "https://quizmama.blogspot.com/2023/09/test.html",
+           "topic": [
+                  "নবযুগলাঙললাঙললাঙললাঙললাঙললাঙললাঙললাঙললাঙল",
+                  "লাঙল"
+              ]
+          }
+        ]
+      },
+      {
+        "subjectName": "Current Affairs",
+        "units": [
+          {
+            "unitName": "News & Blog",
+            "url": "https://quizmama.blogspot.com/2023/09/decorated.html",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল"
+              ]
+          },
+          {
+            "unitName": "Magazine",
+            "url": "https://www.youtube.com",
+           "topic": [
+                  "নবযুগ",
+                  "লাঙল"
+              ]
+          }
+        ]
+      }
+    ]
+  }

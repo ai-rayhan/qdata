@@ -1,0 +1,14 @@
+{
+  "syllabus_link": "https://quizmama.blogspot.com/2023/09/decorated.html",
+  "study_link": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/study/ssc.json",
+  "practice_links": {
+    "easy": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/ssc/easy/010224.json",
+    "medium": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/ssc/medium/010224.json",
+    "hard": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/ssc/zhard/010224.json"
+  },
+  "exam_id": "ABC1543",
+  "ispublished": true,
+  "last_score_update": "2024-01-04T15:58:11.238021",
+  "exam_link": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/exams/ssc/010224.json",
+  "meritist_link": "https://example.com/result"
+}
