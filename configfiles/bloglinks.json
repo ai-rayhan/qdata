@@ -1,1 +1,31 @@
 
+
+
+
+[
+    {
+      "title": "The Art of Coding",
+      "subtitle": "Exploring the beauty and creativity in programming",
+      "image_link": "https://img.freepik.com/free-photo/ai-cloud-concept-with-robot-arm_23-2149739748.jpg",
+      "weburl": "https://example.com/art-of-coding"
+    },
+    {
+      "title": "A Journey into Machine Learning",
+      "subtitle": "Unraveling the mysteries of AI and machine intelligence",
+      "image_link": "https://img.freepik.com/free-photo/ai-cloud-concept-with-robot-arm_23-2149739748.jpg",
+      "weburl": "https://example.com/journey-into-ml"
+    },
+    {
+      "title": "Cooking Adventures: From Kitchen to Plate",
+      "subtitle": "Discovering the joy of cooking and experimenting with flavors",
+      "image_link": "https://img.freepik.com/free-photo/ai-cloud-concept-with-robot-arm_23-2149739748.jpg",
+      "weburl": "https://example.com/cooking-adventures"
+    },
+    {
+      "title": "Exploring the Cosmos",
+      "subtitle": "Journeying through the wonders of the universe",
+      "image_link": "https://img.freepik.com/free-photo/ai-cloud-concept-with-robot-arm_23-2149739748.jpg",
+      "weburl": "https://example.com/exploring-the-cosmos"
+    }
+  ]
+
