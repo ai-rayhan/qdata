@@ -1,5 +1,5 @@
-{
-    "blogPosts": [
+
+    [
       {
         "title": "The Art of Coding",
         "subtitle": "Exploring the beauty and creativity in programming",
@@ -25,5 +25,4 @@
         "weburl": "https://example.com/exploring-the-cosmos"
       }
     ]
-  }
   
