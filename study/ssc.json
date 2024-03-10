@@ -4,7 +4,7 @@
         "subjectName": "বাংলা সাহিত্য",
         "units": [
           {
-            "unitName": "অপরিচিতা",
+            "unitName": "পদ্য- সুভা",
             "url": "https://www.ebanglalibrary.com/lessons/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A6%BE-2",
             "topic": [
                   "Page1",
@@ -14,22 +14,22 @@
         ]
       },
      {
-        "subjectName": "ICT",
+        "subjectName": "বাংলা ভাষার ব্যাকরণ",
         "units": [
           {
-            "unitName": "বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
+            "unitName": "পরিচ্ছেদ ১-ভাষা ও বাংলা ভাষা",
             "url": "https://hscict.org/welcome/allbook/nctb_chapter1",
             "topic": [
-                 "যোগাযোগ (Communication)",
-                "কর্মসংস্থান (Employment)"
+                 "পৃষ্ঠাঃ ১-২"
+                
               ]
           },
           {
-            "unitName": "কম্পিউনিকেশন সিস্টেমস\nও নেটওয়ার্কিং",
+            "unitName": "পরিচ্ছেদ ২- বাংলা ব্যাকরণ",
             "url": "https://hscict.org/welcome/allbook/nctb_chapter2",
            "topic": [
-                  "কমিউনিকেশন সিস্টেম (Communication System)",
-                  "ব্যান্ডউইথ (Bandwidth)"
+                  "পৃষ্ঠাঃ ৩-৪"
+                 
               ]
           }
         ]
