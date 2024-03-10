@@ -6,37 +6,36 @@
         "units": [
           {
             "unitName": "অপরিচিতা-১ম অংশ",
-            "url": "https://www.ebanglalibrary.com/lessons/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A6%BE-2",
+            "url": "https://quizmama.blogspot.com/2024/03/blog-post_9.html",
             "topic": [
-                 "পৃষ্ঠা ১-৪"              ]
-              ]
+                 "পৃষ্ঠা ১-৫"              ]
           },
             {
             "unitName": "অপরিচিতা-২য় অংশ",
-            "url": "https://www.ebanglalibrary.com/lessons/%E0%A6%85%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A6%BE-2",
+            "url": "https://quizmama.blogspot.com/2024/03/blog-post_43.html",
             "topic": [
-                  "পৃষ্ঠা ৫-৮"              ]
+                  "পৃষ্ঠা ৬-১০"              ]
           }
         ]
       },
      {
-        "subjectName": "ICT",
+        "subjectName": "আইসিটি",
         "units": [
           {
-            "unitName": "বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
-            "url": "https://hscict.org/welcome/allbook/nctb_chapter1",
+            "unitName": "তথ্য ও যোগাযোগ প্রযুক্তিঃ বিশ্ব ও বাংলাদেশ প্রেক্ষিত-১ম অংশ",
+            "url": "https://quizmama.blogspot.com/2024/03/blog-post_53.html",
             "topic": [
                  "যোগাযোগ (Communication)",
-                "কর্মসংস্থান (Employment)"
+                "কর্মসংস্থান (Employment)",
+                "শিক্ষা(Education)",
+               "চিকিৎসা(Medical)"
               ]
           },
           {
-            "unitName": "কম্পিউনিকেশন সিস্টেমস\nও নেটওয়ার্কিং",
-            "url": "https://hscict.org/welcome/allbook/nctb_chapter2",
+            "unitName": "তথ্য ও যোগাযোগ প্রযুক্তিঃ বিশ্ব ও বাংলাদেশ প্রেক্ষিত-২য় অংশ",
+            "url": "https://quizmama.blogspot.com/2024/03/blog-post_12.html",
            "topic": [
-                  "কমিউনিকেশন সিস্টেম (Communication System)",
-                  "ব্যান্ডউইথ (Bandwidth)"
-              ]
+                  "১.১.৪ থেকে ১.১.১১"              ]
           }
         ]
       }
