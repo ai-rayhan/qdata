@@ -3,7 +3,7 @@
     "study_link": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/study/hsc.json",
     "practice_links": {
       "easy": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/hsc1/easy/010224.json",
-      "medium": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/ssc/medium/010224.json",
+      "medium": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/hsc1/medium/010224.json",
       "hard": "https://raw.githubusercontent.com/ai-rayhan/qdata/main/practice/ssc/zhard/010224.json"
     },
     "exam_id": "ABC1543",
