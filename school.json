@@ -65,6 +65,26 @@
     },
     {
       "id": "7",
+      "school_name": "নূরে মদিনা শিশু একাডেমি",
+      "school_code": "107",
+      "school_domain_url": "https://institute.hexapage.org/api",
+      "school_logo_url": "https://institute.hexapage.org/uploads/images",
+      "school_icon": "https://institute.hexapage.org/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
+    {
+      "id": "8",
+      "school_name": "MADRASATUL ANSAR AL-ARABIAH",
+      "school_code": "108",
+      "school_domain_url": "https://madrasatulansar.com/api",
+      "school_logo_url": "https://madrasatulansar.com/uploads/images",
+      "school_icon": "https://madrasatulansar.com/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
+    {
+      "id": "7",
       "school_name": "Local School",
       "school_code": "8000",
       "school_domain_url": "http://192.168.0.101:8000/api",
