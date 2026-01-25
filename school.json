@@ -7,9 +7,9 @@
       "id": "1",
       "school_name": "AL-Ihsan High School",
       "school_code": "101",
-      "school_domain_url": "http://192.168.0.101:8000",
-      "school_logo_url": "http://192.168.0.101:8000/uploads/images",
-      "school_icon": "http://192.168.0.101:8000/uploads/images/icon.png",
+      "school_domain_url": "https://ihsan.hexapage.org/api",
+      "school_logo_url": "https://ihsan.hexapage.org/uploads/images",
+      "school_icon": "https://ihsan.hexapage.org/uploads/images/icon.png",
       "status": "active",
       "timestamp": "2026-01-25 10:00:00"
     },
