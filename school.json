@@ -1,0 +1,77 @@
+{
+  "status": 200,
+  "msg": "Success",
+  "title": "School List",
+  "data": [
+    {
+      "id": "1",
+      "school_name": "AL-Ihsan High School",
+      "school_code": "101",
+      "school_domain_url": "http://192.168.0.101:8000",
+      "school_logo_url": "http://192.168.0.101:8000/uploads/images/logo.png",
+      "school_icon": "http://192.168.0.101:8000/uploads/images/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:00:00"
+    },
+    {
+      "id": "2",
+      "school_name": "AL-Ihsan Cadet Madrasah",
+      "school_code": "102",
+      "school_domain_url": "https://ihsan-madrasa.hexapage.org/api",
+      "school_logo_url": "https://ihsan-madrasa.hexapage.org/uploads/images/logo.png",
+      "school_icon": "https://ihsan-madrasa.hexapage.org/uploads/images/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:05:00"
+    },
+    {
+      "id": "3",
+      "school_name": "ইকবাল সিদ্দিকী স্কুল এন্ড কলেজ",
+      "school_code": "103",
+      "school_domain_url": "https://issc-edu.com/api",
+      "school_logo_url": "https://issc-edu.com/uploads/images/logo.png",
+      "school_icon": "https://issc-edu.com/uploads/images/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:10:00"
+    },
+    {
+      "id": "4",
+      "school_name": "Ambag Cambrian School",
+      "school_code": "104",
+      "school_domain_url": "https://ambagcambrianschool.com/api",
+      "school_logo_url": "https://ambagcambrianschool.com/uploads/images/logo.png",
+      "school_icon": "https://ambagcambrianschool.com/uploads/images/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:15:00"
+    },
+    {
+      "id": "5",
+      "school_name": "Shahid Model School & College",
+      "school_code": "105",
+      "school_domain_url": "https://kamarpara.shahideducationfamily.com/api",
+      "school_logo_url": "https://kamarpara.shahideducationfamily.com/uploads/images/logo.png",
+      "school_icon": "https://kamarpara.shahideducationfamily.com/uploads/images/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:20:00"
+    },
+    {
+      "id": "6",
+      "school_name": "নূরে মদিনা একাডেমি",
+      "school_code": "106",
+      "school_domain_url": "https://hifz-nuremadina.hexapage.org/api",
+      "school_logo_url": "https://hifz-nuremadina.hexapage.org/media/logo.png",
+      "school_icon": "https://hifz-nuremadina.hexapage.org/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
+    {
+      "id": "7",
+      "school_name": "Local School",
+      "school_code": "8000",
+      "school_domain_url": "http://192.168.0.101:8000/api",
+      "school_logo_url": "http://192.168.0.101:8000/media/logo.png",
+      "school_icon": "http://192.168.0.101:8000/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:30:00"
+    }
+  ]
+}
