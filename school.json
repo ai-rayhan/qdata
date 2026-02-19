@@ -83,8 +83,18 @@
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
+      {
+      "id": "9",
+      "school_name": "Agrajatra Bidhyaniketon & College",
+      "school_code": "109",
+      "school_domain_url": "https://agrajatracollege.com/api",
+      "school_logo_url": "https://agrajatracollege.com/uploads/images",
+      "school_icon": "https://agrajatracollege.com/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
     {
-      "id": "7",
+      "id": "99",
       "school_name": "Local School",
       "school_code": "8000",
       "school_domain_url": "http://192.168.0.101:8000/api",
