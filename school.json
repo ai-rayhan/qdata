@@ -83,13 +83,23 @@
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
-      {
+    {
       "id": "9",
       "school_name": "Agrajatra Bidhyaniketon & College",
       "school_code": "109",
       "school_domain_url": "https://agrajatracollege.com/api",
       "school_logo_url": "https://agrajatracollege.com/uploads/images",
       "school_icon": "https://agrajatracollege.com/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
+      {
+      "id": "10",
+      "school_name": "ELITE EDUCATION CENTER",
+      "school_code": "110",
+      "school_domain_url": "https://elite-education.legendasoft.com/api",
+      "school_logo_url": "https://elite-education.legendasoft.com/uploads/images",
+      "school_icon": "https://elite-education.legendasoft.com/media/icon.png",
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
