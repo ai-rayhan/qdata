@@ -103,6 +103,16 @@
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
+      {
+      "id": "11",
+      "school_name": "Rafiqraju Cadet School",
+      "school_code": "111",
+      "school_domain_url": "https://rafiqrajulauhati.com/api",
+      "school_logo_url": "https://rafiqrajulauhati.com/uploads/images",
+      "school_icon": "https://rafiqrajulauhati.com/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
     {
       "id": "99",
       "school_name": "Local School",
