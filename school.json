@@ -57,9 +57,9 @@
       "id": "6",
       "school_name": "নূরে মদিনা একাডেমি",
       "school_code": "106",
-      "school_domain_url": "https://hifz-nuremadina.hexapage.org/api",
-      "school_logo_url": "https://hifz-nuremadina.hexapage.org/uploads/images",
-      "school_icon": "https://hifz-nuremadina.hexapage.org/media/icon.png",
+      "school_domain_url": "https://hifz.nuremadinaacademy.com/api",
+      "school_logo_url": "https://hifz.nuremadinaacademy.com/uploads/images",
+      "school_icon": "https://hifz.nuremadinaacademy.com/media/icon.png",
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
@@ -67,9 +67,9 @@
       "id": "7",
       "school_name": "নূরে মদিনা শিশু একাডেমি",
       "school_code": "107",
-      "school_domain_url": "https://institute.hexapage.org/api",
-      "school_logo_url": "https://institute.hexapage.org/uploads/images",
-      "school_icon": "https://institute.hexapage.org/media/icon.png",
+      "school_domain_url": "https://shishu.nuremadinaacademy.com/api",
+      "school_logo_url": "https://shishu.nuremadinaacademy.com/uploads/images",
+      "school_icon": "https://shishu.nuremadinaacademy.com/media/icon.png",
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
@@ -93,7 +93,7 @@
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
-      {
+    {
       "id": "10",
       "school_name": "ELITE EDUCATION CENTER",
       "school_code": "110",
@@ -103,7 +103,7 @@
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
-      {
+    {
       "id": "11",
       "school_name": "Rafiqraju Cadet School",
       "school_code": "111",
@@ -113,7 +113,7 @@
       "status": "active",
       "timestamp": "2026-01-25 10:25:00"
     },
-     {
+    {
       "id": "12",
       "school_name": "Hazratpur Holy Crescent Kindergarten and High School",
       "school_code": "112",
