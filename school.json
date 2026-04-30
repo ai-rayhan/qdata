@@ -124,6 +124,16 @@
       "timestamp": "2026-01-25 10:25:00"
     },
     {
+      "id": "13",
+      "school_name": "আশা মডেল স্কুল এন্ড কলেজ",
+      "school_code": "113",
+      "school_domain_url": "https://ashamodelschool.com/api",
+      "school_logo_url": "https://ashamodelschool.com/uploads/images",
+      "school_icon": "https://ashamodelschool.com/media/icon.png",
+      "status": "active",
+      "timestamp": "2026-01-25 10:25:00"
+    },
+    {
       "id": "99",
       "school_name": "Local School",
       "school_code": "8000",
